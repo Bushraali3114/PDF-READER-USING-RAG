@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+chroma/
+*.pdf
+.env
+.streamlit/secrets.toml
+.vscode/
+.DS_Store
+Thumbs.db
